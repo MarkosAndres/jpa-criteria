@@ -1,0 +1,348 @@
+id;sap;descripcion;precio;unidad_medida_id;tipo_id
+1;3005116;Abrazadera de cobre tipo silbato para cable de 28 hilos desnudo 1/0;17.00;1;1
+2;3005117;Abrazadera de cobre tipo silbato para cable de 28 hilos desnudo 2/0;18.74;1;1
+3;3005042;Abrazadera para unicanal de 1 1/2\" ancho;14.28;1;1
+4;3005041;Abrazadera para unicanal de 1 1/4\" ancho;13.26;1;1
+5;3005040;Abrazadera para unicanal de 1\" ancho;11.22;1;1
+6;3005100;Abrazadera para unicanal de 1/2\" ancho;9.25;1;1
+7;3005043;Abrazadera para unicanal de 2\" ancho;17.01;1;1
+8;3005101;Abrazadera para unicanal de 3/4\" ancho;9.5;1;1
+9;3005036;Abrazadera sin fin de 1 1/2\" Diam.;30;1;1
+10;3005035;Abrazadera sin fin de 1 1/4\" Diam.;28;1;1
+11;3005034;Abrazadera sin fin de 1\" Diam.;24;1;1
+12;3005032;Abrazadera sin fin de 1/2\" Diam.;19.9;1;1
+13;3005037;Abrazadera sin fin de 2\" Diam.;31.32;1;1
+14;3005033;Abrazadera sin fin de 3/4\" Diam.;23;1;1
+15;3005038;Abrazadera sin fin de 4\" Diam.;39.52;2;2
+16;3005030;Abrazadera tipo omega de 1 1/2\" Diam.;13.37;1;1
+17;3005098;Abrazadera tipo omega de 1\" Diam.;9.65;1;1
+18;3005096;Abrazadera tipo omega de 1/2\" Diam.;7.68;1;1
+19;3005031;Abrazadera tipo omega de 2\" Diam.;13.8;1;1
+20;3005097;Abrazadera tipo omega de 3/4\" Diam.;9.44;1;1
+21;3005114;Abrazadera tipo uña para cable cal. 2;8.98;1;1
+22;3005115;Abrazadera tipo uña para cable cal. 6;9.75;1;1
+23;2003217;SEI Abrazaderas de unicanal de 3\";32.48;1;1
+24;2003216;SEI Abrazaderas de unicanal de 4\";38.56;1;1
+25;3005146;Aire Acondicionado de 1.5ton Tipo ventana Mca LG 220V. No incluye sistema electrico;10142.35;3;1
+26;3005145;Aire Acondicionado de 1ton Tipo ventana Mca LG 220V. No incluye sistema electrico;7399.15;3;1
+27;2003215;SEI Aisladores dieléctricos de neopreno;76.5;1;1
+28;3005046;Alambre guia;7.36;6;1
+29;2003214;SEI Ancla de tipo aguja para juego de retenida;450.03;1;1
+30;2003213;SEI Ancla de tipo paleta para juego de retenidas     ;645;1;1
+31;3005108;Apagador sencillo;46.06;1;1
+32;3005118;Barra de cobre 2\" x 12\" x 1/4\";596;2;2
+33;3005119;Barra de cobre 4\" x 12\" x 1/4\";866.41;1;1
+34;2003212;SEI Barra de cobre de 2X10X1/4\";458.25;1;1
+35;3005169;Base para punta de pararrayos;262.46;1;1
+36;3005143;Base para punta faraday;224.4;1;1
+37;3005225;SEI Base para tore de TZ 30;995;1;1
+38;2003211;SEI Base para tore de TZ 35;1190;3;2
+39;2003210;SEI Base para tore de TZ 45;1850;1;1
+40;2003209;SEI Base para tore de TZ 60;3267;1;1
+41;3005163;Brida (Interna);787;1;1
+42;3005164;Cablado para retenida de 1/4\" Diam.;21.61;1;1
+43;3005111;Cable 28 hilos 1/0 desnudo;162.5;6;1
+44;3005112;Cable 28 hilos 2/0 desnudo;202.4054;6;1
+45;3005060;Cable cal. 10 awg ;21.95;6;1
+46;3005061;Cable cal. 12 awg ;17.01;6;1
+47;3005056;Cable cal. 2 awg;112.32;6;1
+48;3005057;Cable cal. 4 awg;76.7;6;1
+49;3005058;Cable cal. 6 awg ;52.43;6;1
+50;3005059;Cable cal. 8 awg ;31.43;6;1
+51;3005210;Cable calibra 2/0 a pie de torre;202.11;6;1
+52;3005172;Cable calibre 12 awg con forro a pie de torre.;22.302;6;1
+53;3005110;Cable calibre 2 con forro negro ;124.2;6;1
+54;3005109;Cable calibre 6 con forro verde ;52.65;6;1
+55;2003208;SEI Cable Coaxial CECBV 75-2;41.61;6;1
+56;2003206;SEI Cable de acero reforzado para retenida de 1/2\";49;6;1
+57;2003207;SEI Cable de acero reforzado para retenida de 5/16\";28;6;1
+58;2003205;SEI Cable de acero reforzado para retenida y cable de vida de 3/8\";38.1848;6;1
+59;2003203;Cable de cobre THW cal. 1/0 AWG forrado de al menos 29 hilos;162.5;6;1
+60;2003203;SEI Cable de cobre THW calibre 1/0 AWG forrado;162.5;6;1
+61;2003202;SEI Cable de cobre THW calibre 2/0 AWG forrado;189;6;1
+62;2003201;SEI Cable THW calibre # 14 AWG ;12.55;6;1
+63;2003200;SEI Cable uso rudo de 3x12;51.05;6;1
+64;2003199;SEI Cable uso rudo de 3x14;39.09;6;1
+65;2003198;SEI Cable UTP  CAT. 6;20.85;6;1
+66;2003197;SEI Cable UTP nivel 5;19.85;6;1
+67;3005102;Caja FS condulet de 1/2\";103.11;1;1
+68;2003196;SEI Caja para contacto exterior;81.86;1;1
+69;2003195;SEI Canaleta 1”  2 Vías;81;6;1
+70;2003194;SEI Canaleta 1/2 caña  2 vías;74;6;1
+71;3005052;Centro de carga QO-2 ;300;1;1
+72;3005053;Centro de carga QO-4 ;469.2;1;1
+73;3005054;Centro de carga QO-6 ;588.14;1;1
+74;3005055;Centro de carga QO-8;789.657379120879;1;1
+75;3005020;Codo 90° de  2\" Diam. de PVC.;66.16;1;1
+76;3005017;Codo 90° de 1 1/2\" Diam. de PVC.;42.37;1;1
+77;3004963;Codo 90° de 1 1/2\" Diam. p.d. Ac. Galv.;122.36;1;1
+78;3004983;Codo 90° de 1 1/2\" Diam. p.g. Ac. Galv.;151.26;1;1
+79;3005014;Codo 90° de 1 1/4\" Diam. de PVC.;31.358;1;1
+80;3004958;Codo 90° de 1 1/4\" Diam. p.d. Ac. Galv.;120.71;1;1
+81;3004978;Codo 90° de 1 1/4\" Diam. p.g. Ac. Galv.;135.72;1;1
+82;3005011;Codo 90° de 1\" Diam. de PVC.;18.41;1;1
+83;3005519;Codo 90° de 1\" Diam. p.d. Ac. Galv.;70.7;1;1
+84;3004973;Codo 90° de 1\" Diam. p.g. Ac. Galv.;84.81;1;1
+85;3005091;Codo 90° de 1/2\" Diam. de PVC.;11.68;1;1
+86;3005064;Codo 90° de 1/2\" Diam. p.d. Ac. Galv.;38;1;1
+87;3005074;Codo 90° de 1/2\" Diam. p.g. Ac. Galv.;44.289;1;1
+88;3005518;Codo 90° de 2\" Diam. p.d. Ac. Galv.;191.21;1;1
+89;3004987;Codo 90° de 2\" Diam. p.g. Ac. Galv.;264.72;1;1
+90;3005094;Codo 90° de 3/4\" Diam. de PVC.;16.97;1;1
+91;3005069;Codo 90° de 3/4\" Diam. p.d. Ac. Galv.;42;1;1
+92;3005078;Codo 90° de 3/4\" Diam. p.g. Ac. Galv.;56;1;1
+93;2000088;COLOCACION DE RACK AXTEL 19\";500;3;1
+94;2003192;SEI Condulet sin empaque.de neopreno de 1 1/2\";132.6;1;1
+95;2003193;SEI Condulet sin empaque.de neopreno de 1\";84.66;1;1
+96;3004984;Condulets 1 1/2\" Diam. tipo LB\, LC\, LL\, ETC. p.g. Ac. Galv. Con tapa y empaque de neopreno;251.88;1;1
+97;3004984;Condulets 1 1/2\" tipo LB\, LC\, LL\, ETC. Diam. p.d. Ac. Galv. Con tapa y empaque de neopreno;251.88;1;1
+98;3004980;Condulets 1 1/4\" Diam. tipo LB\, LC\, LL\, ETC. p.d. Ac. Galv. Con tapa y empaque de neopreno;230.58;1;1
+99;3004980;Condulets 1 1/4\" Diam. tipo LB\, LC\, LL\, ETC. p.g. Ac. Galv. Con tapa y empaque de neopreno;230.58;1;1
+100;3004975;Condulets 1\" Diam. tipo LB\, LC\, LL\, ETC. p.d. Ac. Galv. Con tapa y empaque de neopreno;118;1;1
+101;3004975;Condulets 1\" Diam. tipo LB\, LC\, LL\, ETC. p.g. Ac. Galv. Con tapa y empaque de neopreno;118;1;1
+102;3005066;Condulets 1/2\" Diam. tipo LB\, LC\, LL\, ETC. p.d. Ac. Galv. Con tapa y empaque de neopreno;134.6;1;1
+103;3004989;Condulets 2\" Diam. tipo LB\, LC\, LL\, ETC. p.g. Ac. Galv. Con tapa y empaque de neopreno;348.52;1;1
+104;3004970;Condulets 2\" tipo LB\, LC\, LL\, ETC. Diam. p.d. Ac. Galv. Con tapa y empaque de neopreno;348.52;1;1
+105;3005080;Condulets 3/4\" Diam. tipo LB\, LC\, LL\, ETC. p.d. Ac. Galv. Con tapa y empaque de neopreno;130;1;1
+106;3005080;Condulets 3/4\" Diam. tipo LB\, LC\, LL\, ETC. p.g. Ac. Galv. Con tapa y empaque de neopreno;130;1;1
+107;3004995;Conector grandula de 1 1/2\" Diam.;178.02;1;1
+108;3004993;Conector grandula de 1 1/4\" Diam.;120;1;1
+109;3004991;Conector grandula de 1\" Diam.;148;1;1
+110;3005082;Conector grandula de 1/2\"  Diam.;73.11;1;1
+111;3004997;Conector grandula de 2\"  Diam.;217.11;1;1
+112;3005085;Conector grandula de 3/4\" Diam.;89.63;1;1
+113;3005018;Conector recto de 1 1/2\" Diam. de PVC;23.81;1;1
+114;3004964;Conector recto de 1 1/2\" Diam. p.d. Ac. Galv.;52.8;1;1
+115;3005015;Conector recto de 1 1/4\" Diam. de PVC;17.07;1;1
+116;3004959;Conector recto de 1 1/4\" Diam. p.d. Ac. Galv.;31.16325;1;1
+117;3004979;Conector recto de 1 1/4\" Diam. p.g. Ac. Galv.;39.64;1;1
+118;3004974;Conector recto de 1\" Diam. p.d. Ac. Galv.;24.013;1;1
+119;3004974;Conector recto de 1\" Diam. p.g. Ac. Galv.;24.013;1;1
+120;3005092;Conector recto de 1/2\" Diam. de PVC;8.2;1;1
+121;3005075;Conector recto de 1/2\" Diam. p.d. Ac. Galv.;13.98;1;1
+122;3005075;Conector recto de 1/2\" Diam. p.g. Ac. Galv.;13.98;1;1
+123;3005113;Conector recto de 2\" Diam. de PVC;30.06;1;1
+124;3004988;Conector recto de 2\" Diam. p.d. Ac. Galv.;52.66;1;1
+125;3005095;Conector recto de 3/4\" Diam. de PVC;13.4356054945055;1;1
+126;3005524;Conector recto de 3/4\" Diam. p.d. Ac. Galv.;18.21;1;1
+127;3005079;Conector recto de 3/4\" Diam. p.g. Ac. Galv.;18.34;1;1
+128;3005007;Conector recto para Tubo liquatite de 1 1/2\" Diam.;90.46;1;1
+129;3005005;Conector recto para Tubo liquatite de 1 1/4\" Diam.;59.55;1;1
+130;3005003;Conector recto para Tubo liquatite de 1\" de diámetro;45.87;1;1
+131;3005087;Conector recto para Tubo liquatite de 1/2\" Diam.;30.08;1;1
+132;3005009;Conector recto para Tubo liquatite de 2\" Diam.;110.24;1;1
+133;3005089;Conector recto para Tubo liquatite de 3/4\" Diam.;39.23;1;1
+134;2003191;SEI Conector RJ-11;11.66;1;1
+135;2003190;SEI Conector RJ-45;17.34;1;1
+136;2003189;SEI Conector RJ45 CAT. 6;21.76;1;1
+137;2003188;SEI Conector tipo Americano  1 1/2\" pd;45.47;1;1
+138;2003187;SEI Conector tipo Americano  1\" pd;24.79;1;1
+139;2003186;SEI Conector tipo Americano  2 1/2\"  pd;68.1;1;1
+140;2003185;SEI Conector tipo Americano  2\"  pd;49.06;1;1
+141;2003184;SEI Conector tipo Americano  3 1/2\" pd ;92.5;1;1
+142;2003183;SEI Conector tipo Americano  3\"  pd;83.25;1;1
+143;2003182;SEI Conectores BNC Hembra P/ Coaxial CECBV 75-2;180.03;1;1
+144;2003181;SEI Conectores BNC Macho P/ Coaxial CECBV 75-2;78.38;1;1
+145;3005104;Contactos doble polarizados;54.24;1;1
+146;3004994;Contra y monitor de 1 1/2\" Diam. ;24.77;1;1
+147;3004992;Contra y monitor de 1 1/4\" Diam.;20.91;1;1
+148;3004990;Contra y monitor de 1\" Diam.;9.98;1;1
+149;3005081;Contra y monitor de 1/2\" Diam.;6.75;1;1
+150;3004996;Contra y monitor de 2\"  Diam.;27.75;1;1
+151;3005083;Contra y monitor de 3/4\" Diam.;8.78;1;1
+152;2003180;SEI Copete para Torre Galvanizado por inmersión en caliente. T-60;2547.45;1;1
+153;3004982;Cople de 1 1/2\" Diam. p.g. Ac. Galv.;56.55;1;1
+154;3004957;Cople de 1 1/4\" Diam. p.d. Ac. Galv.;34.51;1;1
+155;3004977;Cople de 1 1/4\" Diam. p.g. Ac. Galv.;48.02;1;1
+156;3004952;Cople de 1\" Diam. p.d. Ac. Galv.;25.5;1;1
+157;3004972;Cople de 1\" Diam. p.g. Ac. Galv.;28.56;1;1
+158;3005063;Cople de 1/2\" Diam. p.d. Ac. Galv.;17.9;1;1
+159;3005073;Cople de 1/2\" Diam. p.g. Ac. Galv.;18.53;1;1
+160;3004967;Cople de 2\" Diam. p.d. Ac. Galv.;56.73;1;1
+161;3004986;Cople de 2\" Diam.p.g. Ac. Galv.;63;1;1
+162;3005068;Cople de 3/4\" Diam. p.d. Ac. Galv.;19.05;1;1
+163;3005077;Cople de 3/4\" Diam. p.g. Ac. Galv.;18.1;1;1
+164;3004962;Coples de 1 1/2\" Diam. p.d. Ac. Galv.;46;1;1
+165;2003179;SEI Cuello metálico Galvanizado para Cable 1X7 de 1/4\";24.97;1;1
+166;2003177;SEI Cuello metálico Galvanizado para Cable 1X7 de 3/8\";29.02;1;1
+167;2003178;SEI Cuello metálico Galvanizado para Cable 1X7 de 5/16\";25.65;1;1
+168;2003176;SEI Curva conduit de 3\" de diámetro pared delgada;640.7;1;1
+169;2003175;SEI Curva conduit de 4\" de diámetro pared delgada;1101.6;1;1
+170;2003174;SEI Curva PVC ligero de 3\";102.24;1;1
+171;2003173;SEI Curva PVC ligero de 4\";142.8;1;1
+172;2003172;SEI Curva PVC pesado de 3\";141.14;1;1
+173;2003171;SEI Curva PVC pesado de 4\";191.76;1;1
+174;3005150;Dado de concreto para base de Torre TZ-30;1809.03214285714;3;1
+175;3005151;Dado de concreto para base de Torre TZ-35;1979.59017857143;3;1
+176;3005152;Dado de concreto para base de Torre TZ-45;2403.55446428571;3;1
+177;2001273;Demolición de elementos de concreto;400;4;1
+178;3005187;Elaboración de paso en muro y resane hasta 3\" Diam.;225;3;1
+179;3005523;Elaboración de plancha de concreto de 0.30 x 1.00 x 1.00 mts con armado de acero. ;1835.72;3;1
+180;3005183;Elaboración de plancha de concreto de 0.30 x 1.10 x 1.10 mts con armado de acero. ;2077.88;3;1
+181;3005522;Elaboración de plancha de concreto de 0.30 x 1.25 x 1.25 mts con armado de acero. ;2371.72;3;1
+182;3005185;Elaboración de plancha de concreto de 0.30 x 1.45 x 1.45 mts con armado de acero. ;2341.2;3;1
+183;3005186;Elaboración de plancha de concreto de 0.30 x 1.50 x 1.50 mts con armado de acero. ;2519.7;3;1
+184;3005523;ELABORACION PLANCHA CONCRETO .3X1X1M;1835.72;3;1
+185;3005134;Electrodo Quimico EP - ET;1406.61;1;1
+186;3005135;Electrodo Quimico EP - TC;1601.37;1;1
+187;3005137;Electrodo Quimico Parres 3.80;2190.99;1;1
+188;3005136;Electrodo Quimico Parres Et;1557.83;1;1
+189;3005174;Escalera marina de 60 cm de ancho;1210;6;1
+190;3005181;Escarificar e impermeabilizar base de concreto;450;3;1
+191;3005191;Escavación e instalacion de tubo albañal de 12\";415.77;3;1
+192;3005190;Escavación e instalacion de tubo albañal de 6\";350;3;1
+193;3004443;Excavación;500;3;1
+194;3005196;Execedente de distancia de instalacion de tuberia para interconexion de condensador y evaporador;372.8;6;1
+195;3005200;Flete de escalera de bodega proveedor a sitio del cliente.;660;3;1
+196;3005178;Flete de mastil de bodega AXTEL  a sitio del cliente.;660;3;1
+197;3005199;Flete de torre de bodega proveedor a sitio del cliente.;660;3;1
+198;3005168;Fotocelda nacional;204;1;1
+199;3005125;Grasa dielectrica;113;3;1
+200;3005159;Gtilletes;95;1;1
+201;2003170;SEI Herraje para cable de vida (incluye Herrajes superior e inferior\, tornillería y guias );2600;3;1
+202;3005520;SEI HERRAJE MW-PMP\,H6\,11/2\"\,6\" TIPO BAND;2400;2;1
+203;2002827;INST CABLE DE FO\, UTP\, COAXIAL SUM POR AXTEL ESCALERILLA;15;6;1
+204;3005195;Instalación de conexiones mecanicas\, instalación de tuberia cobre tipo L\, filtro deshidratador\, mirilla de liquido y trampa etc. Long max. 15 mts.;1250;3;1
+205;3004950;Instalacion de escalera marina;364.8;1;1
+206;3005179;Instalación de Mastil de 4\" diam. por 3 mts de long. tipo tripie;1800;3;1
+207;3005180;Instalación de Mastil de 4\" diam. por 3 mts. de long. adosado;1600;3;1
+208;3005167;Juego de luces de obstrucción nacionales;1402.5;1;1
+209;3005130;Junta termotractil para zapata cañon largo cal.6\,2\,1/0.;21;1;1
+210;3005189;Limpieza y retiro de material producto de la obra;630;3;1
+211;3005107;Luminaria 2x32 balastro electronico;614.126;1;1
+212;2000287;Maniobras especiales para subir mastil a azotea;585;3;1
+213;3005198;Maniobras especiales para subir torre a azotea;895.05;3;1
+214;2003169;SEI Mástil de pretil de acero galvanizado de 2\" x 3 mts.;3529.5;1;1
+215;2003165;SEI Mástil de pretil de aluminio de 3\" x 2 mts.;3380;1;1
+216;2003166;SEI Mástil de pretil de aluminio de 3\" x 3 mts.;4410;1;1
+217;2003167;SEI Mástil de pretil de aluminio de 3\" x 4 mts.;4975;1;1
+218;2003168;SEI Mástil de pretil de aluminio de 3\" x 5 mts.;5990;1;1
+219;2003161;SEI Mástil de pretil de aluminio de 4\" x 2 mts.;4890;1;1
+220;2003162;SEI Mástil de pretil de aluminio de 4\" x 3 mts.;6045;1;1
+221;2003163;SEI Mástil de pretil de aluminio de 4\" x 4 mts.;6645;1;1
+222;2003164;SEI Mástil de pretil de aluminio de 4\" x 5 mts.;7364.4;1;1
+223;2003157;SEI Mástil de tripié de aluminio de 3\" x 2 mts.;4532.2;1;1
+224;2003158;SEI Mástil de tripié de aluminio de 3\" x 3 mts.;5780;1;1
+225;2003159;SEI Mástil de tripié de aluminio de 3\" x 4 mts.;6161.62;1;1
+226;2003160;SEI Mástil de tripié de aluminio de 3\" x 5 mts.;6876.99;1;1
+227;2003154;SEI Mástil de tripié de aluminio de 4\" x 2 mts.;4798.8;1;1
+228;2003155;SEI Mástil de tripié de aluminio de 4\" x 4 mts.;6928.04;1;1
+229;2003156;SEI Mástil de tripié de aluminio de 4\" x 5 mts.;8412.45;1;1
+230;3005000;Mufa de 1 1/2\" Diam. p.g. Ac. Galv.;105.8;1;1
+231;3005513;Mufa de 1 1/4\" Diam. p.g. Ac. Galv.;72.5;1;1
+232;3004998;Mufa de 1\" Diam. p.g. Ac. Galv.;60;1;1
+233;3005001;Mufa de 2\" Diam. p.g. Ac. Galv.;117;1;1
+234;3005105;Muro de tablaroca de 1m lineal para site;690;1;1
+235;2003153;SEI Nudo para cable 1X 7 de 1/4\";15.10347;1;1
+236;2003152;SEI Nudo para cable 1X 7 de 3/8\";21.17;1;1
+237;2003151;SEI Nudo para cable 1X 7 de 5/16\";19;1;1
+238;3005187;Paso en muro y resane hasta 3\" Diam.;225;2;1
+239;2003150;SEI Pastilla Termomagnética 1X10;102;1;1
+240;3005047;Pastilla Termomagnetica de 1x15 amp.;107.1;1;1
+241;3005048;Pastilla Termomagnetica de 1x20 amp.;124.26;1;1
+242;3005049;Pastilla Termomagnetica de 1x30 amp.;132.6;1;1
+243;3005514;Pastilla Termomagnetica de 2x30 amp.;320.62;1;1
+244;3005051;Pastilla Termomegnetica de 2x40 amp.;345.7;1;1
+245;3005106;Puerta de madera con picaporte;1830;1;1
+246;3005170;Punta de pararrayos de 5/8\" diam. x 60 cm de long.;480;1;1
+247;3005142;Punta para pararayos de 120 cm;979.4;1;1
+248;3005140;Punta para pararayos de 30 cm;346.875;1;1
+249;3005141;Punta para pararayos de 60 cm;530.4;1;1
+250;3005192;Ranuracion en piso de banqueta para cableado de sistema de tierra y pararrayos.;308.649159049585;6;1
+251;3005176;Reducción 1 1/2\" a 1\";89;1;1
+252;3005175;Reduccion Bushing de 1 1/2\" Diam. a 1\" Diam.;89;1;1
+253;2003149;SEI Registro Himel 60 x 80 cm;2301.0075;1;1
+254;2003148;SEI Registro metalico de 20 x 20 cm;280;1;1
+255;2003147;SEI Registro metálico de 30 x 30 cm;340;1;1
+256;3005144;Registro PVC 15x15;132;1;1
+257;3002884;Relleno con producto de excavación;367.2;5;1
+258;2001490;Reposición de concreto;336.6;4;1
+259;2003146;SEI Rollo de Velcro Negro Doble Cara  15 ft;132;1;1
+260;3005138;Saco G E M;397.021;3;1
+261;3005132;Saldaruda Cadwell cal. 115;183.6;3;1
+262;3005131;Saldaruda Cadwell cal. 90;181;3;1
+263;2003145;SEI Soporte a base de unicanal de 4\" x 4\"\,abrazadera unistrud de 25 mm;69.36;1;1
+264;2003144;SEI Soporte de aluminio de 3\" x 1.00 mts;2147.29;1;1
+265;2003143;SEI Soporte de aluminio de 3\" x 1.20 mts;2395.98;1;1
+266;3005124;Soporte omega para aislador con taquetes de expanción de 1/2\";69.059474714832;1;1
+267;3005166;Soporte para parabola (Herraje para Torre Arriostrada CTE tubo 3\"x20 ced 30  Galv.);2075;1;1
+268;3003658;SUM INST MUFA DE 1/2\" DIAM P G AC GAL;34.5;1;1
+269;3003016;SUM INST MUFA DE 3/4\" DIAM P G AC GAL;46.55;1;1
+270;2000234;SUM INST REGISTRO HIMMEL 40x40x20;1535;1;1
+271;3003216;SUM INST. DE  ESCALERILLA DE 5\";250;6;1
+272;3003884;SUM INST. DE CURVA DE ESCALERILLA DE 5\";250;1;1
+273;2000140;SUM Y COLOCACION DE CHAROLASCENTRO;250;3;1
+274;3005193;Suministro de equipo de aire acondicionado de 1 T.R. (12 000 BTU) mca. LG tipo minisplit Mod G122C. ;9450;3;1
+275;3005194;Suministro de equipo de aire acondicionado de 1.5 T.R. (12 000 BTU) mca. LG tipo minisplit Mod G122C. ;11030;3;1
+276;3005173;Suministro y aplicación de pintura;161.11;6;1
+277;3005188;Suministro y colocación de identificación de tuberia de AXTEL;40;3;1
+278;3005103;Tapa para contactos duplex;23.44;1;1
+279;3005139;Tapa para registro con angulo de 3/4\" con dimenciones de 30 x 30 cm.;474;1;1
+280;2003142;SEI Tensor Galvanizado 1/2\" X 6\";186.62;1;1
+281;2003141;SEI Tensor Galvanizado 1/2\" X 9\";212.8;1;1
+282;2003140;SEI Tensor Galvanizado 3/4\" X 12\";452.2;1;1
+283;2003139;SEI Tensor Galvanizado 3/4\" X 6\";360.75;1;1
+284;2003138;SEI Tensor Galvanizado 5/8\" X 12\";293.26;1;1
+285;2003137;SEI Tensor Galvanizado 5/8\" X 6\";286.595;1;1
+286;2003136;SEI Tensor Galvanizado 5/8\" X 9\";319.92;1;1
+287;2003135;SEI Terminal Automotris cal.12-10 AWG de 3/16 con forro;20;1;1
+288;3005123;Termofil en zapata ponchable;16.2;3;1
+289;3005120;Tornillo de bronce de 1/2\" x1\" fijacion de barra con aisladores;34.7361856869738;1;1
+290;3005122;Tornillo de bronce de 3/8\" x 1\";29.381547456783;1;1
+291;2003134;SEI Tramo de TZ-60 de 3 mts de altura;6514;1;1
+292;3005147;Tramo de TZ-30 de 3 mts de altura;2338;1;1
+293;3005148;Tramo de TZ-35 de 3 mts de altura;2640;1;1
+294;3005149;Tramo de TZ-45 de 3 mts de altura;3510;1;1
+295;3005156;Tramo remate para torre TZ-30;1151.51;1;1
+296;3005157;Tramo remate para torre TZ-35;1350;1;1
+297;3005158;Tramo remate para torre TZ-45;1657.5;1;1
+298;3005153;Triangulo estabilizador para torre TZ-30;2038.5;1;1
+299;3005154;Triangulo estabilizador para torre TZ-35;2533.78;1;1
+300;3005155;Triangulo estabilizador para torre TZ-45;3041.06;1;1
+301;3004961;Tubo conduit 1 1/2\" Diam. p.d. Ac. Galv.;124.22;6;1
+302;3004981;Tubo conduit 1 1/2\" Diam. p.g. Ac. Galv.;166.685;6;1
+303;3004956;Tubo conduit 1 1/4\" Diam. p.d. Ac. Galv.;129;6;1
+304;3004976;Tubo conduit 1 1/4\" Diam. p.g. Ac. Galv.;140.4;6;1
+305;3004971;Tubo conduit 1\" Diam. p.g. Ac. Galv.;108.89;6;1
+306;3004951;Tubo conduit 1\" Diam.p.d. Ac. Galv.;74.1;6;1
+307;3005515;Tubo conduit 1/2\" Diam. p.d. Ac. Galv.;47.12;6;1
+308;3005072;Tubo conduit 1/2\" Diam. p.g. Ac. Galv.;62.54;6;1
+309;3005517;Tubo conduit 2\" Diam. p.d. Ac. Galv.;156.9;6;1
+310;3004985;Tubo conduit 2\" Diam.p.g. Ac. Galv.;229;6;1
+311;3005067;Tubo conduit 3/4\" Diam. p.d. Ac. Galv.;51.59;6;1
+312;3005076;Tubo conduit 3/4\" Diam. p.g. Ac. Galv.;70.44;6;1
+313;3005019;Tubo de  2\" Diam. de PVC. ;65.8281989388104;6;1
+314;3005016;Tubo de 1 1/2\" Diam. de PVC. ;52.1349023301669;6;1
+315;3005013;Tubo de 1 1/4\" Diam. de PVC. ;41.9987838966929;6;1
+316;3005010;Tubo de 1\" Diam. de PVC. ;32.0571228102178;6;1
+317;3005090;Tubo de 1/2\" Diam. de PVC. ;18.2332206541893;6;1
+318;3005093;Tubo de 3/4\" Diam. de PVC. ;20.33;6;1
+319;2003133;SEI Tubo duraluminio para fijación del dipolo;438;1;1
+320;3005006;Tubo liquatite de 1 1/2\" Diam.;117.05;6;1
+321;3005004;Tubo liquatite de 1 1/4\" Diam.;94.93;6;1
+322;3005002;Tubo liquatite de 1\" Diam.;60.87;6;1
+323;3005086;Tubo liquatite de 1/2\" Diam.;39.48;6;1
+324;3005008;Tubo liquatite de 2\" Diam.;124.61;6;1
+325;3005088;Tubo liquatite de 3/4\" Diam.;45.9;6;1
+326;2003132;SEI Tubo Poliflex   Naranja  1\" 1/2;41.8;6;1
+327;2003131;SEI Tubo Poliflex  Naranja   1\";32.6;6;1
+328;2003130;SEI Tubo Poliflex  Naranja  3/4;25.64;6;1
+329;2003129;SEI Tubo PVC pesado de 3\";97;6;1
+330;2003128;SEI Tubo PVC pesado de 4\";104.79;6;1
+331;2003127;SEI Tubo Zapa   1\";32;6;1
+332;2003126;SIE Tubo Zapa   1\" 1/2;49;6;1
+333;2003125;SIE Un Ciento de Cinturones Plasticos Con Lengüeta Metalica ;168;3;1
+334;3005099;Unicanal de 4 x 2 x 20 cm;37.68;1;1
+335;3005039;Unicanal de 4 x 2 x 30 cm;53.85;1;1
+336;2003124;SIE Varilla Cooperwell de 3 mts de 3/8\";275.91;1;1
+337;3005133;Varilla de cobre de 5/8\" diam. x 3 mts de long.;389;1;1
+338;3005044;Varilla roscada 1/4\" diam. Galv. Incluye clips fijabarra\, tuerca hexagonal y taquete expansión;97;1;1
+339;3005045;Varilla roscada 3/8\" diam. Galv. Incluye clips fijabarra\, tuerca hexagonal y taquete expansión;120;1;1
+340;3005128;Zapata de doble ojillo cablibre 1/0;96;1;1
+341;3005129;Zapata de doble ojillo cablibre 2/0;137;1;1
+342;2003122;SIE Zapata de doble ojillo para cable calibre 10 AWG;37.3;1;1
+343;2003123;SIE Zapata de doble ojillo para cable calibre 12 AWG;34.45;1;1
+344;2003119;SIE Zapata de doble ojillo para cable calibre 14 AWG;32.2;1;1
+345;2003120;SIE Zapata de doble ojillo para cable calibre 8 AWG;44.6454;1;1
+346;3005126;Zapata ponchable de doble ojillo y cañon largo cablibre 2;98.51;1;1
+347;3005127;Zapata ponchable de doble ojillo y cañon largo cablibre 6;85.53;1;1

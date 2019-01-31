@@ -1,0 +1,2 @@
+id;fecha;concepto;cantidad;precio_unitario;iva;total;cancelado;tipo_id;proveedor_id;sap_id
+1;2011-09-13;compra de tornillos;12;112.34;123.34;129.34;false;2;1;201

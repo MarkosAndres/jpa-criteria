@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
+    <!--
+        Added the constraints for entity Compras.
+    -->
+    <changeSet id="20180830220156-2" author="jhipster">
+        
+        <addForeignKeyConstraint baseColumnNames="tipo_id"
+                                 baseTableName="compras"
+                                 constraintName="fk_compras_tipo_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="tipo_compra"/>
+
+        <addForeignKeyConstraint baseColumnNames="proveedor_id"
+                                 baseTableName="compras"
+                                 constraintName="fk_compras_proveedor_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="proveedores"/>
+
+        <addForeignKeyConstraint baseColumnNames="sap_id"
+                                 baseTableName="compras"
+                                 constraintName="fk_compras_sap_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="sap"/>
+
+    </changeSet>
+</databaseChangeLog>

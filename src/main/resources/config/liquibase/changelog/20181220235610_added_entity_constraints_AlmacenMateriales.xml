@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<databaseChangeLog
+    xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
+    <!--
+        Added the constraints for entity AlmacenMateriales.
+    -->
+    <changeSet id="20181220235610-2" author="jhipster">
+        
+        <addForeignKeyConstraint baseColumnNames="ubicacion_id"
+                                 baseTableName="almacen_materiales"
+                                 constraintName="fk_almacen_materiales_ubicacion_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="ciudad"/>
+
+        <addForeignKeyConstraint baseColumnNames="material_id"
+                                 baseTableName="almacen_materiales"
+                                 constraintName="fk_almacen_materiales_material_id"
+                                 referencedColumnNames="id"
+                                 referencedTableName="sap"/>
+
+        <addUniqueConstraint columnNames="ubicacion_id, material_id"
+                             constraintName="unique_ubicacion_id_material_id"
+                             tableName="almacen_materiales" />
+
+    </changeSet>
+</databaseChangeLog>

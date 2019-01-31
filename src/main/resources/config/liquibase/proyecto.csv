@@ -1,0 +1,3 @@
+id;nombre_proyecto;folio_asignacion;fecha_asignacion;orden_siebel;locacion;domicilio;ciudad;status;tipo_servicio_id;cliente_id;orden_compra_id
+1;Proyecto Axtel;21341234123123;2011-08-12;WEFBRGHDFG34535;FORANEA;16502 Brighton Ave\, Apt 2;Gardena;NUEVO;1;1;1
+2;Proyecto Megacable;343424;2013-04-11;345345HRHRRGRGH;FORANEA;Luis Donaldo Colosio Murrieta S/N\, Arroyo del Maiz;Poza Rica;PROCESO;2;2;1

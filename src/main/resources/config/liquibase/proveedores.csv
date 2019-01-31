@@ -1,0 +1,4 @@
+id;nombre_comercial;razon_social;telefono;email;nombre;apellido
+1;Proveedor 1;Proveedor 1 SA de CV;123234234;proveedor1@mail.com;Juan;Perez
+2;Proveedor 2;Proveedor 2 SA de CV;345546777;proveedor2@mail.com;Miguel;Gonzalez
+3;Proveedor 3;Proveedor 3 SA de CV;345234555;proveedor3@mail.com;Lazaro;Cardenaz
