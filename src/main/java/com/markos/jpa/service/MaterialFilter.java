@@ -5,7 +5,7 @@ import com.markos.jpa.service.filter.StringFilter;
 
 import java.io.Serializable;
 
-public class MaterialCriteria implements Serializable {
+public class MaterialFilter implements Serializable {
 
 	private LongFilter id;
 
@@ -17,7 +17,7 @@ public class MaterialCriteria implements Serializable {
 
 	private LongFilter tipoId;
 
-	public MaterialCriteria() {
+	public MaterialFilter() {
 	}
 
 	public LongFilter getId() {

@@ -16,9 +16,9 @@ import javax.persistence.criteria.*;
 import java.util.List;
 
 @Service
-public class MaterialService {
+public class MaterialServiceCriteria {
 
-	static Logger log = LoggerFactory.getLogger(MaterialService.class);
+	static Logger log = LoggerFactory.getLogger(MaterialServiceCriteria.class);
 
     @PersistenceContext
     private EntityManager entityManager;
@@ -130,7 +130,7 @@ public class MaterialService {
 		log.info(materiales.toString()) ;
     }
 
-    public List<Material> specificationContainsOnNumeric(MaterialCriteria filter) {
+    public List<Material> specificationContainsOnNumeric(MaterialFilter filter) {
 		Specification<Material> specifications = Specification.where(null);
 
 		String contains = filter.getId().getContains();
@@ -138,4 +138,6 @@ public class MaterialService {
 
 		return materialRepository.findAll(specifications);
 	}
+
+
 }

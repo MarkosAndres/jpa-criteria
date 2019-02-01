@@ -1,8 +1,8 @@
 package com.markos.jpa.controller;
 
 import com.markos.jpa.domain.Material;
-import com.markos.jpa.service.MaterialCriteria;
-import com.markos.jpa.service.MaterialService;
+import com.markos.jpa.service.MaterialFilter;
+import com.markos.jpa.service.MaterialServiceCriteria;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Pageable;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -14,12 +14,11 @@ import java.util.List;
 public class MaterialResource {
 
 	@Autowired
-	MaterialService materialService;
+	MaterialServiceCriteria materialServiceCriteria;
 
 	@GetMapping("/test")
-	public List<Material> search(MaterialCriteria materialCriteria, Pageable pageable) {
-
-		return materialService.specificationContainsOnNumeric(materialCriteria);
+	public List<Material> search(MaterialFilter materialFilter, Pageable pageable) {
+		return materialServiceCriteria.specificationContainsOnNumeric(materialFilter);
 	}
 
 }
