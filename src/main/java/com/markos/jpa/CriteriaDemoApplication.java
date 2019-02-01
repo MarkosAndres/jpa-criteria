@@ -2,42 +2,29 @@ package com.markos.jpa;
 
 import com.markos.jpa.service.MaterialService;
 import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
+import org.springframework.web.servlet.config.annotation.EnableWebMvc;
+
 
 @SpringBootApplication
-@EnableJpaRepositories
+//@Configuration
+//@EnableJpaRepositories
+//@EnableAutoConfiguration
+//@EnableWebMvc
+//@ComponentScan({
+//		"com.markos.jpa.controller",
+//		"com.markos.jpa.repository",
+//		"com.markos.jpa.service"
+//})
 public class CriteriaDemoApplication {
 
-	private static ApplicationContext ctx;
-	private static MaterialService materialService;
-
 	public static void main(String[] args) {
-		ctx = SpringApplication.run(CriteriaDemoApplication.class, args);
-		materialService = ctx.getBean("materialService", MaterialService.class);
-
-		//criteria();
-
-		specification();
-	}
-
-	static void specification() {
-		//materialService.specificationSearch()
-
-		//materialService.specificationSapAndDescrition();
-
-		materialService.specificationJoin();
-	}
-
-	static void criteria() {
-		materialService.searchMaterialBySap("3005097", 20L);
-
-		materialService.joinTipoMaterial();
-
-		materialService.joinTipoMaterialAndUnidadMedida();
-
-		materialService.selectSaps();
+		SpringApplication.run(CriteriaDemoApplication.class, args);
 	}
 
 }
