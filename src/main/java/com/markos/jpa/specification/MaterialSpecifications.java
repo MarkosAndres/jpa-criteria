@@ -7,6 +7,7 @@ import com.markos.jpa.domain.TiposMaterial_;
 import org.springframework.data.jpa.domain.Specification;
 
 import javax.persistence.criteria.*;
+import javax.persistence.metamodel.SingularAttribute;
 
 public class MaterialSpecifications {
 
@@ -20,11 +21,16 @@ public class MaterialSpecifications {
 	}
 
 	public static Specification<Material> join() {
-		return ((root, criteriaQuery, criteriaBuilder) -> {
+		return (root, criteriaQuery, criteriaBuilder) -> {
 			Join<Material, TiposMaterial> joinTipoMaterial = root.join(Material_.tipo);
 			Path<String> tipoMaterialTipoPath = joinTipoMaterial.get(TiposMaterial_.TIPO);
 
 			return criteriaBuilder.equal(tipoMaterialTipoPath, "Herramienta");
-		});
+		};
+	}
+
+	public static Specification<Material> contains(SingularAttribute<Material, Long> field, String value) {
+		return (root, criteriaQuery, cb) ->
+				cb.like(root.get(field).as(String.class), "%"+value+"%");
 	}
 }

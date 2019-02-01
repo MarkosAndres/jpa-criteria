@@ -129,4 +129,13 @@ public class MaterialService {
 
 		log.info(materiales.toString()) ;
     }
+
+    public List<Material> specificationContainsOnNumeric(MaterialCriteria filter) {
+		Specification<Material> specifications = Specification.where(null);
+
+		String contains = filter.getId().getContains();
+		specifications = specifications.and(MaterialSpecifications.contains(Material_.id, contains));
+
+		return materialRepository.findAll(specifications);
+	}
 }
