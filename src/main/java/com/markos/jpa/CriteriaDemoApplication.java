@@ -1,37 +1,43 @@
 package com.markos.jpa;
 
-import com.markos.jpa.domain.Material;
-import com.markos.jpa.domain.TiposMaterial;
-import com.markos.jpa.domain.UnidadMedida;
-import com.markos.jpa.repository.MaterialRepository;
-import com.markos.jpa.repository.TipoMaterialRepository;
-import com.markos.jpa.repository.UnidadMedidaRepository;
 import com.markos.jpa.service.MaterialService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
-import java.math.BigDecimal;
-
 @SpringBootApplication
 @EnableJpaRepositories
 public class CriteriaDemoApplication {
 
 	private static ApplicationContext ctx;
+	private static MaterialService materialService;
 
 	public static void main(String[] args) {
 		ctx = SpringApplication.run(CriteriaDemoApplication.class, args);
-		MaterialService materialService = ctx.getBean("materialService", MaterialService.class);
+		materialService = ctx.getBean("materialService", MaterialService.class);
 
-		//System.out.println(materialService.searchMaterialBySap("3005097", 20L));
+		//criteria();
 
-		//System.out.println(materialService.joinTipoMaterial());
+		specification();
+	}
 
-		//System.out.println(materialService.joinTipoMaterialAndUnidadMedida());
+	static void specification() {
+		//materialService.specificationSearch()
 
-		System.out.println(materialService.selectSaps());
+		//materialService.specificationSapAndDescrition();
 
+		materialService.specificationJoin();
+	}
+
+	static void criteria() {
+		materialService.searchMaterialBySap("3005097", 20L);
+
+		materialService.joinTipoMaterial();
+
+		materialService.joinTipoMaterialAndUnidadMedida();
+
+		materialService.selectSaps();
 	}
 
 }
