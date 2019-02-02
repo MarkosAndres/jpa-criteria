@@ -30,4 +30,9 @@ public class MaterialResource {
 		return materialServiceQueryDSL.sapLike("%175%");
 	}
 
+	@GetMapping("/test-querydsl-join")
+	public Iterable<Material> searchQueryDslJoin(MaterialFilter materialFilter, Pageable pageable) {
+		return materialServiceQueryDSL.join("%175%");
+	}
+
 }
